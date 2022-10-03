@@ -44,4 +44,4 @@ merge dev
 commit
 ```
 
-[<<к содержанию<<](./readme.md) | [вперед>](./gitfiles.md)
+[<<к содержанию<<](./readme.md) | [вперед>](./gitinstall.md)

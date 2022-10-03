@@ -25,4 +25,4 @@ $ git config --global core.editor emacs
 git config --list
 ```
 
-[<<к содержанию<<](./readme.md) | [<назад](./gitfiles.md) | [вперед>]()
+[<<к содержанию<<](./readme.md) | [<назад](./gitinstall.md) | [вперед>](./gitfiles.md)
