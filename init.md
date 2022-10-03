@@ -32,4 +32,4 @@ git touch имя <файла>
 ```
 git init
 ```
-[<<к содержанию<<](./readme.md) | [<назад](./git.md) | [вперед>](./init.md)
+[<<к содержанию<<](./readme.md) | [<назад](./gitinstall.md) | [вперед>](./gitfiles.md)
