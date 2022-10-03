@@ -33,4 +33,4 @@ stateDiagram-v2
     staged --> unmodified
 ```
 
-[<<к содержанию<<](./readme.md) | [<назад](./init.md) | [вперед>]()
+[<<к содержанию<<](./readme.md) | [<назад](./init.md) | [вперед>](./gitindex.md)
