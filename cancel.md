@@ -62,4 +62,4 @@ git revert <hash>
 git hist
 ```
 
-[<<к содержанию<<](./readme.md) | [<назад](./commit.md) | [вперед>]()
+[<<к содержанию<<](./readme.md) | [<назад](./commit.md) | [вперед>](./branch.md)
