@@ -10,3 +10,4 @@
 7. [Операции отмены](./cancel.md)
 8. [Объекты git](./gitobjects.md)
 9. [Ветвление](./branch.md)
+10. [Слияние](./gitmerge.md)
